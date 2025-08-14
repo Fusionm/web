@@ -1,10 +1,10 @@
 {
-  "name": "NAC",
+  "name": "Jaylen Grant",
   "bio": {
-    "en": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "fr": "NAC est un groupe de Hard Rock/Rock Progressif, fondé en 1994 à Igny, France. La formation du groupe a souvent évoluée, autour de Pierrot et Elliot pour progressivement se consolider à partir de 2015. Ses éclectiques membres mettent leur interprétation au service de leur musique ; brute et sans détour.",
-    "es": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "de": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw."
+    "en": "",
+    "fr": "",
+    "es": "",
+    "de": ""
   },
   "bandPicture": "Band.webp",
   "members": [
@@ -458,64 +458,16 @@
       ],
       "tracks": [
         {
-          "title": "Oil Mechanic Life",
-          "duration": "3:59",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
+          "title": "All The Time",
+          "duration": "2:40",
+          "composer": "",
+          "author": ""
         },
         {
-          "title": "C'Est Beau La Vie",
-          "duration": "5:11",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Badminton Man",
-          "duration": "6:51",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Malibu",
-          "duration": "5:16",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "La Chaise",
-          "duration": "3:39",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Fragment D'Amertume",
-          "duration": "6:04",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Le Jour Des Monstres",
-          "duration": "4:58",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Indigo",
-          "duration": "4:03",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "La Bande D4",
-          "duration": "6:53",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Le Blues du Mille Pattes Jaune Et Bleu",
-          "duration": "6:09",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
+          "title": "Wasted",
+          "duration": "2:46",
+          "composer": "",
+          "author": ""
         }
       ]
     }
